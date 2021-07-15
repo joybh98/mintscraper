@@ -9,4 +9,4 @@
 
 ## See it in action
 
-![GIF](https://github.com/j98x/mintscraper/blob/main/media/Peek%202021-07-14%2012-32.gif)
+![GIF](https://github.com/joybh98/mintscraper/blob/master/media/Peek%202021-07-14%2012-32.gif)
