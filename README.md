@@ -1,24 +1,12 @@
-# Live Mint Web Crawler
+# Mint Scraper
 
-This is a spider(web crawler) that i'm making for livemint.com with python and scrapy
+* This is a simple web scraping and sentiment analysis project that I've picked up in my free time.
 
-Steps:
-1. Clone repository
-2. Activate venv by typing : **source venv/bin/activate**(for linux devices)
-3. Install dependencies by typing : **pip3 install requirements.txt**
-4. Enjoy
+## Steps/Workflow
+1. Takes input from user for the category of headlines it wants (news,companies etc). See livemint.com for all the sections/categories
+2. Extracts the headlines, descriptions and urls of each article
+3. Calculates the sentiment for each headline and shows it to the user.
 
-## Note 
-- Please use Python 3.x
+## See it in action
 
-## Disclaimer 
-
-- Please check the sites robot.txt file before using a spider.
-- To check the a sites robot.txt, go to : **www.nameofsite.com/robots.txt**
-
-## Resources
-1. Robots.txt : https://support.google.com/webmasters/answer/6062608?hl=en
-2. Tutorial on which this is based on : https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
-
-
-
+![GIF](https://github.com/j98x/mintscraper/blob/main/media/Peek%202021-07-14%2012-32.gif)
