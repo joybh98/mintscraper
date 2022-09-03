@@ -1,7 +1,5 @@
 # Mint Scraper
 
-* This is a simple web scraping and sentiment analysis project that I've picked up in my free time.
-
 ## Steps/Workflow
 1. Takes input from user for the category of headlines it wants (news,companies etc). See livemint.com for all the sections/categories
 2. Extracts the headlines, descriptions and urls of each article
